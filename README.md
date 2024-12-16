@@ -1,0 +1,1 @@
+Este é um projeto para detectar e alterar cabelo usando opencv.
